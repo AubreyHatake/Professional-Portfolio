@@ -1,0 +1,23 @@
+head {
+    padding: 20px;
+    text-align: left;
+    font-size: 16px;
+    font-family: Arial;
+    background-color: rgb(127, 98, 155);
+    color: whitesmoke;
+ 
+}
+
+nav ul li {
+    display: table-row-group;
+    background-color: rgb(127, 98, 155);
+    color: whitesmoke;
+
+}
+
+body {
+    display: flow-root;
+    background-position: 20px;
+    
+    
+}
