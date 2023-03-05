@@ -1,4 +1,30 @@
 * {
-    margin: auto;
-    padding: auto;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+ head h1 {
+    margin: 2px;
+    padding: 2px;
+    text-align: left;
+    left: -20px;
+    font-size: 10px;
+    font-family: 'Times New Roman'
+ 
+}
+
+nav ul li {
+    display: inline-block;
+    right: 20%;
+    background-color: rgb(127, 98, 155);
+    color: whitesmoke;
+
+}
+
+body {
+    display: auto;
+
+    
+    
 }
