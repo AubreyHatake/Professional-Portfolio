@@ -28,3 +28,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
  In this site I was able to play around with formatting on HTML to create a portfolio to display future applications and deployed websites. 
 I was able to work on this assignment independently, meaning I coded everything from scratch! 
 
+## Mock up 
+I realize now that this site was suppose to mock the assignment on the Challenge page on canvas, this website, obviously, does not look like the mock up site. This of course is due to me not reading the entire page before working entirely on this site. I will not have time to clean up and fix my site to mimic the mock up site ufortunately, grade accordingly. 😔
