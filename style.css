@@ -46,6 +46,20 @@
     display: inline-block;
 
   }
+
+  .pinkjacket {
+      height: 300px;
+      width: 56%;
+      margin-bottom: 25px;
+      margin-top: -44px;
+      float: left;
+      background-image: url("assets/css/pink.jacket.JPG");
+      background-size: cover; /* or contain, depending on your preference */
+      background-position: center; /* center the image on the page */
+      background-repeat: no-repeat; /* ensure the image is only shown once */
+    }
+    
+  
   
 
   .heads {
