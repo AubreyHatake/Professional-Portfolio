@@ -24,17 +24,27 @@
   } */
 
   nav {
-    /* flex: 2; */
+    /* flex: 2; */ 
+    /*make this into a row */
     display: row;
     flex-direction: row;
     background-color: rgb(127, 98, 155);
     color:rgb(227, 219, 219);
-    text-align: center;
+    text-align: right;
     width: 100%;
   }
 
-.list {
-    display: list-item;
-   justify-content: center;
+  .heads {
+    flex: 1;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia;
+
+  }
+
+li {
+    flex: 1;
+    text-align: center;
 }
 
