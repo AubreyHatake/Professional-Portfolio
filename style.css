@@ -64,12 +64,10 @@
       z-index: 1;
     }
     
-    html, body {
-      cursor: url("assets/css/Crying-Cats.png"), auto;
-  }
+    /* body {
+      /* cursor: url("assets/css/Crying-Cats.png"), auto; */
+    
   
-  
-
   .heads {
     flex: 1;
     margin-top: 60px;
@@ -82,9 +80,10 @@
 
   }
 
-  body {
+   body {
     text-align: center;
-  }
+    cursor: url("assets/css/Crying-Cats.png"), auto;
+  } 
 
   
 li {
