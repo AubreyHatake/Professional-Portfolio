@@ -30,3 +30,8 @@ I was able to work on this assignment independently, meaning I coded everything 
 
 ## Mock up 
 I realize now that this site was suppose to mock the assignment on the Challenge page on canvas, this website, obviously, does not look like the mock up site. This of course is due to me not reading the entire page before working entirely on this site. I will not have time to clean up and fix my site to mimic the mock up site ufortunately, grade accordingly. 😔
+
+This is a screenshot of my page: ![mypage](assets/css/Screenshotty.jpg)
+
+In this page you will be able to access my contact information, resume, information about myself, and websites I've delpoyed. 
+
