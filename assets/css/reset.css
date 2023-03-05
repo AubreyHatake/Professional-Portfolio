@@ -40,6 +40,12 @@ body {
  
  }
  
+ .float {
+    flex-wrap: wrap;
+    float: left;
+    
+ }
+ 
  .list {
      display: list-item;
     justify-content: center;
