@@ -28,14 +28,18 @@
     /*make this into a row */
     display: row;
     flex-direction: row;
+    list-style-type:inherit;
     background-color: rgb(127, 98, 155);
     color:rgb(227, 219, 219);
     text-align: right;
     width: 100%;
   }
+  
 
   .heads {
     flex: 1;
+    margin-top: 60px;
+    padding-top: 30px;
     text-align: center;
     font-size: 30px;
     font-weight: bold;
@@ -45,6 +49,8 @@
 
 li {
     flex: 1;
+    margin: 0px;
+    padding: 0px;
     text-align: center;
 }
 
