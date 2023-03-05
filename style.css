@@ -60,6 +60,7 @@
       background-size: cover; /* or contain, depending on your preference */
       background-position: center; /* center the image on the page */
       background-repeat: no-repeat; /* ensure the image is only shown once */
+      z-index: 1;
     }
     
   
@@ -87,5 +88,21 @@ li {
     margin: 0px;
     padding-top: 5px;
     text-align: center;
+}
+
+.resume {
+  height: 500px;
+  width: 56px;
+  background-image: url("assets/css/Screenshot 2023-03-05 115923.jpg");
+  margin-top: 10px;
+  padding-top: 20px;
+  background-size: cover; /* or contain, depending on your preference */
+  background-position: center; /* center the image on the page */
+  background-repeat: no-repeat; /* ensure the image is only shown once */
+  float: left;
+  justify-content: bottom;
+  position: relative;
+  z-index: 2;
+
 }
 
