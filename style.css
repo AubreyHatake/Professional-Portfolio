@@ -5,21 +5,31 @@
 
 }
 
+.h1 {
+    flex: 1;
+    background-color: rgb(127, 98, 155);
+    color: rgb(246, 240, 240);
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+
 header {
     flex: 1;
-    background-color: #333;
-    color: white;
-    font-size: 24px;
+    background-color: rgb(127, 98, 155);
+    color: rgb(227, 219, 219);
+    font-size: 28px;
+    width: 100%;
     text-align: center;
   }
-  
+
   nav {
     flex: 2;
-    background-color: #f2f2f2;
+    background-color: rgb(127, 98, 155);
+    color:rgb(227, 219, 219);
     text-align: center;
+    width: 100%;
   }
-  
-
 
 .list {
     display: list-item;
