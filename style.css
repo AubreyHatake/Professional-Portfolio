@@ -9,22 +9,24 @@
     flex: 1;
     background-color: rgb(127, 98, 155);
     color: rgb(246, 240, 240);
-    font-size: 30px;
+    font-size: 50px;
     width: 100%;
     text-align: center;
 }
 
-header {
+/* header {
     flex: 1;
     background-color: rgb(127, 98, 155);
     color: rgb(227, 219, 219);
-    font-size: 28px;
+    font-size: 100px;
     width: 100%;
     text-align: center;
-  }
+  } */
 
   nav {
-    flex: 2;
+    /* flex: 2; */
+    display: row;
+    flex-direction: row;
     background-color: rgb(127, 98, 155);
     color:rgb(227, 219, 219);
     text-align: center;
