@@ -5,6 +5,7 @@
 
 }
 
+
 .h1 {
     flex: 1;
     background-color: rgb(190, 125, 150);
@@ -63,6 +64,9 @@
       z-index: 1;
     }
     
+    html, body {
+      cursor: url("assets/css/Crying-Cats.png"), auto;
+  }
   
   
 
