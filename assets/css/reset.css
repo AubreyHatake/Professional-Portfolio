@@ -20,4 +20,29 @@ body {
     background-position: 20px;
     
     
-}
+}head h1 {
+    display: inline-block;
+    justify-content: center;
+    background-color:  rgb(127, 98, 155);
+    color: whitesmoke;
+     font-size: 8px;
+     font-family: 'Times New Roman'
+  
+ }
+ 
+ nav ul li {
+     display: inline-block;
+     flex-grow: auto;
+     width: 100%;
+     background-color: rgb(127, 98, 155);
+     color: whitesmoke;
+     
+ 
+ }
+ 
+ .list {
+     display: list-item;
+    justify-content: center;
+ }
+ 
+ 
