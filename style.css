@@ -25,14 +25,26 @@
 
   nav {
     /* flex: 2; */ 
-    /*make this into a row */
-    display: row;
-    flex-direction: row;
-    list-style-type:inherit;
+    padding-top: 8px;
+    font-size: 30px;
+    font-family: Georgia;
     background-color: rgb(127, 98, 155);
     color:rgb(227, 219, 219);
     text-align: right;
     width: 100%;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    
+  }
+
+  li {
+    display: inline-block;
+
   }
   
 
@@ -47,6 +59,11 @@
 
   }
 
+  body {
+    text-align: center;
+  }
+
+  
 li {
     flex: 1;
     margin: 0px;
