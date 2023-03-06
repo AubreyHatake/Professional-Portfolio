@@ -58,14 +58,12 @@
       margin-top: -44px;
       float: left;
       background-image: url("assets/css/pink.jacket.JPG");
-      background-size: cover; /* or contain, depending on your preference */
+      background-size: cover; /* or contain */
       background-position: center; /* center the image on the page */
       background-repeat: no-repeat; /* ensure the image is only shown once */
       z-index: 1;
     }
     
-    /* body {
-      /* cursor: url("assets/css/Crying-Cats.png"), auto; */
     
   
   .heads {
@@ -79,10 +77,23 @@
     font-family: Georgia;
 
   }
+  .button {
+    display: inline-block;
+    padding: 10px 10px;
+    padding-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color:rgb(190, 125, 150);
+    border-radius: 6px;
+    outline: none;
+
+  }
 
    body {
     text-align: center;
     cursor: url("assets/css/Crying-Cats.png"), auto;
+    cursor: default;
   } 
 
   
